@@ -402,6 +402,7 @@ cd ~/Desktop/simplescalar_project/results
 ../simplesim-3.0/sim-cache -cache:dl1 dl1:64:32:2:u -cache:il1 il1:64:32:2:u -cache:dl2 none -cache:il2 none -redir:sim ./lfu/output_dl1_64k_b32_a2.txt matmul.pisa
 ../simplesim-3.0/sim-cache -cache:dl1 dl1:64:32:4:u -cache:il1 il1:64:32:4:u -cache:dl2 none -cache:il2 none -redir:sim ./lfu/output_dl1_64k_b32_a4.txt matmul.pisa
 ../simplesim-3.0/sim-cache -cache:dl1 dl1:64:32:8:u -cache:il1 il1:64:32:8:u -cache:dl2 none -cache:il2 none -redir:sim ./lfu/output_dl1_64k_b32_a8.txt matmul.pisa
+```
 
 ---
 
